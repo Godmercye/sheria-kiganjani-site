@@ -6,5 +6,17 @@ Google Play requires a publicly reachable privacy policy URL.
 - Live page: https://godmercye.github.io/sheria-kiganjani-site/
 - The app itself lives in a separate, private repository.
 
-The source of this page is `store/google-play/privacy-policy.html` in the app repository.
-Edit it there, then copy it here as `index.html`.
+
+## Site structure
+
+Static HTML, no build step required to publish (GitHub Pages serves it as is).
+
+- `/` landing page
+- `/topics/` legal topic summaries (Swahili and English)
+- `/support/` FAQ and contact
+- `/privacy/` privacy policy (**use this URL in Google Play Console**; the root now serves the landing page)
+- `/terms/` terms of use (draft)
+- `/delete-data/` data deletion instructions
+- `assets/style.css`, `assets/site.js` shared styles and the SW/EN toggle
+
+Before launch: add the support email (search for `to be added before launch`) and the Play Store link (`TODO` in `index.html`). Have a lawyer review the topic pages and terms.
