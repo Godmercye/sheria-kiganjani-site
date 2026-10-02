@@ -1,9 +1,9 @@
-# Sheria Kiganjani: public pages
+# Mwongozo Wako: public pages
 
-The privacy policy for the **Sheria Kiganjani** Android app, published here because
+The privacy policy for the **Mwongozo Wako** Android app, published here because
 Google Play requires a publicly reachable privacy policy URL.
 
-- Live page: https://godmercye.github.io/sheria-kiganjani-site/
+- Live page: https://godmercye.github.io/mwongozo-wako-site/
 - The app itself lives in a separate, private repository.
 
 
